@@ -1,0 +1,10 @@
+{
+    "linters": {
+        "chmod": {
+            "type": "chmod"
+        },
+        "filename": {
+            "type": "filename"
+        }
+    }
+}
